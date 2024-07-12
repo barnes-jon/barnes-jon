@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barnes-jon
-- 👀 I’m interested in ... learning Front End Web Development, Arduino and Esp32, IoT
-- 🌱 I’m currently learning ...Front End Web Development (html, css, js)
+- 👀 I’m interested in ... learning Data Analysis and Data Science
+- 🌱 I’m currently learning ...Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
